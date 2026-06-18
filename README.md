@@ -1,10 +1,16 @@
 # Easy Audio ASMRifier & Hypnotiser
 
+<img width="1264" height="848" alt="asmr promo" src="https://github.com/user-attachments/assets/33e855fc-9322-4b42-894c-7d102ae4fa1d" />
+
 Transform your TTS voice clips into ASMR or hypnotic audio in bulk — no audio knowledge required.
 
 **By Reactorcore** — https://reactorcore.itch.io/
 
 ---
+
+<img width="1920" height="1020" alt="ASMRifier Screenshot (1)" src="https://github.com/user-attachments/assets/99b4067b-ecd0-4af8-b1b2-fc8cee1c6dc6" />
+<img width="1920" height="1020" alt="ASMRifier Screenshot (2)" src="https://github.com/user-attachments/assets/dab8c6f9-51cb-4165-b417-93a1e70762cb" />
+<img width="1920" height="1020" alt="ASMRifier Screenshot (4)" src="https://github.com/user-attachments/assets/2a9bb831-62fb-4f92-94c9-c6900444bd64" />
 
 ## How to Use
 
